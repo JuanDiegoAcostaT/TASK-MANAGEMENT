@@ -1,5 +1,5 @@
 # TASK-MANAGEMENT
-# Grid Layout
+
 Daily task manager, editable.
 
 - Javascript
